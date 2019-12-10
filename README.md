@@ -1,2 +1,2 @@
 # Molver-Graphing
-I dont know how to describe this.
+아주대학교 정보융합 조현우 산출물.
